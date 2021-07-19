@@ -1,0 +1,5 @@
+.DS_Store
+Apps/*
+initramfs.img
+bzImage
+*.rc
